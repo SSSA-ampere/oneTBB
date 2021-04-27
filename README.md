@@ -47,3 +47,18 @@ To report security issues please go to https://intel.com/security.
 Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
 
 \* Other names and brands may be claimed as the property of others.
+
+## additional links
+
+https://ppopp18.sigplan.org/track/PPoPP-2018-Tutorials
+
+https://ppopp17.sigplan.org/details/PPoPP-2017-Tutorials/2/CPUs-GPUs-FPGAs-Managing-the-alphabet-soup-with-Intel-Threading-Building-Blocks
+
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html
+
+https://www.colfax-intl.com/training/intel-oneapi-training
+
+[Data Parallel C++Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL](https://www.colfax-intl.com/downloads/Data-Parallel-C-Plus-Plus-Book.pdf)
+
+https://zaguan.unizar.es/record/89637/files/texto_completo.pdf
+
